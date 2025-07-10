@@ -21,9 +21,9 @@
 ```javascript
 const zuhdi = {
     name: "Moch Zuhdi Maulana Nabilah",
-    role: "Computer Science Student & Web Developer",
+    role: "Front End Developer & Informatics Engineering",
     university: "Universitas Pasundan",
-    semester: 4,
+    semester: 6,
     gpa: "3.58/4.00",
     location: "Garut, West Java, Indonesia 🇮🇩",
     currentFocus: "Web Development",
