@@ -1,11 +1,11 @@
 # Hi there, I'm Zuhdi! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Moch%20Zuhdi%20Maulana%20Nabilah&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Web%20Developer&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Moch%20Zuhdi%20Maulana%20Nabilah&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Informatics%20Engineering%20Student%20%7C%20Front%20End%20Developer&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Web+Developer+%26+Problem+Solver;Always+Learning+New+Technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Informatics+Engineering+Student;Front+End+Developer+%26+Problem+Solver;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </div>
 
 <br/>
